@@ -1,0 +1,31 @@
+{
+  "skills": {
+    "title": "Skills",
+    "content": ""
+  },
+  "aboutMe": {
+    "title": "About Me",
+    "content": "Committed and Highly responsible, with a strong sense of accountability. \n\n Quick to learn, good communication, and a team-oriented mindset. \n Knowledgeable in Java, C#, HTML, CSS, React, React-Native, Java-script, SQL, \n noSQL, Containering(Docker and Kubernets), Azure Cloud Computing, Git, GitHub \n Actions, Postman, Insomnia. \n\n Focused on writing efficient and optimized code to build high-performance \n applications. Experienced in minimizing unnecessary loops, optimizing database \n queries, and leveraging indexed columns to enhance overall system performance. \n\n Core Skill: Java - Spring Boot"
+  },
+  "projects": {
+    "title": "Projects",
+    "content": "Here you can showcase your projects.",
+    "projectsIWorkedOn": "Delivered Projects",
+    "portfolioProjects": "Portfolio Projects",
+    "myHealth": {
+      "title": "minha-saude.com",
+      "description": "A health management application that allows users to track their medical history, appointments, and medications. Built with React Native for cross-platform compatibility and integrated with a backend API for data storage and retrieval."
+    },
+    "restaurantDelivery": {
+      "title": "Restaurant Delivery",
+      "description": "A food delivery application that connects users with local restaurants. Built with React and Node.js, featuring real-time order tracking and a user-friendly interface."
+    }
+  },
+  "contacts": {
+    "title": "Contacts",
+    "content": "Here you can showcase your contacts."
+  },
+  "login": "Login",
+  "logout": "Logout",
+  "copiedMsg": "Copied"
+}
